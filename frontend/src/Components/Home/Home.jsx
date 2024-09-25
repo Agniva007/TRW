@@ -8,6 +8,7 @@ import Footer from '../Footer/Footer';
 import Banner from '../Banner/Banner';
 import Products from '../Products/Products';
 import Header from '../Header/Header';
+import OurCustomers from '../OurCustomers/OurCustomer';
 
 export default function Home() {
   return (
@@ -18,8 +19,9 @@ export default function Home() {
         <Products />
         <Materials />
         <Services />
-        <Custom />
+        <OurCustomers />
         <Solutions />
+        <Custom />
         <ContactUs /> 
       </main>
       <Footer />
