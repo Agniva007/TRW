@@ -23,7 +23,12 @@ const OurCustomers = () => {
           <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1727258490/iac_ywbyjd.png" alt="IAC Electricals" srcset="" /></div>
           <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1727258591/taxmaco_rwr3qa.png" alt="Taxmaco Rail & Engineering" srcset="" /></div>
           <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1727258819/Kiswok_ivzqlv.png" alt="Kiswok Industries" srcset="" /></div>
+          <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1733333881/Electrosteel_cukser.png" alt="Electrosteel Castings Ltd." srcset="" /></div>
           {/* Repeat customer divs or map over an array of customer data */}
+          <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1733334042/ruedo_usleef.webp" alt="Ruedo Enineering" srcset="" /></div>
+          <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1733334806/kse_bjoqse.png" alt="KSE Electricals" srcset="" /></div>
+          <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1733334805/bmd_industries_rv4ck3.png" alt="BMW Industries" srcset="" /></div>
+          <div className="w-40 h-20 flex items-center justify-center rounded-md shadow-md"><img src="https://res.cloudinary.com/djpbcmw8p/image/upload/v1733333881/Electrosteel_cukser.png" alt="Electrosteel Castings Ltd." srcset="" /></div>
         </div>
       </div>
     </div>
